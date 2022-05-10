@@ -16,16 +16,25 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](featured.jpg)'
+  focal_point: ''
+  placement: 2
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+authors:
+  - admin
+  - 吳恩達
+
+tags:
+  - Academic
+  - 开源
+
+categories:
+  - Demo
+  - 教程
+---
+
+
 ---
 
 Моя неделя была насыщенной и продуктивной. Помимо удовлетворения личных интересов в целом  я сделала четыре лабораторные работы, две из которых были по Операционным системам. Это были Лабораторные работы №5 и №6
