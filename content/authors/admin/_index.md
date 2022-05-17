@@ -14,7 +14,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Девушка, которая увлекается несовместимыми вещами
+bio: Девушка, которая увлекается IT, искусством и волейболом
 
 # Interests to show in About widget
 interests:
@@ -41,7 +41,50 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/parfenovaee
-  
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/ElizavetaParfenova
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com/search/
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0001-7372-2838
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: erlang
+    icon_pack: fab
+    link: https://elibrary.ru/project_user_office.asp
+
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UC4p9hvYyJiBDHA0Go2lvBcw
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
