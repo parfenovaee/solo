@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Video editing
   - description: 60%
-    icon: book-bookmark
+    icon: book
     icon_pack: fas
     name: Writing
 # Uncomment to use emoji icons.
