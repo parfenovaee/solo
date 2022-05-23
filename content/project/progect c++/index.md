@@ -1,15 +1,15 @@
 ---
-title: Python Project
-summary: Lost of Python progects.
+title: C++ Project
+summary: Lost of C++ progects.
 tags:
-  - Python
+  - C++
 date: '2022-05-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Python
+  caption: C++
   focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-All progects on Python.
+All progects on C++.
