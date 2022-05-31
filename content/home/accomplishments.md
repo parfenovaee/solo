@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Достижения'
 subtitle:
 
 # Date format
@@ -26,10 +26,10 @@ item:
   - certificate_url: 
     date_end: '2021-07-01'
     date_start: '2010-09-01'
-    description: This was hard
+    description: Это было тяжело
     organization: ''
     organization_url: 
-    title: Graduation
+    title: Выпуск из школы
     url: ''
   - certificate_url: https://www.sololearn.com/home
     date_end: '2021-12-25'
@@ -37,15 +37,15 @@ item:
     description: ''
     organization: ''
     organization_url: https://www.sololearn.com/home
-    title: Course on C++
+    title: Курс по С++
     url: ''
   - certificate_url: 
     date_end: ''
     date_start: '2021-09-01'
     description: ''
-    organization: RUDN
+    organization: РУДН
     organization_url: https://www.rudn.ru/
-    title: 'Study in University'
+    title: 'Учеба в университете'
     url: ''
 
 design:

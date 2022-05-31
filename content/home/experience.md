@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Опыт
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Study at school
-    company: School
+  - title: Учеба в школе
+    company: Школа
     company_url: ''
     company_logo: 
-    location: Sevsk
+    location: Севск
     date_start: '2010-09-01'
     date_end: '2021-01-07'
-    description: |2-
-        Responsibilities include:
-        
-        * Responsibility
-        * Cunning
-        * Fatigue
+    description: ''
 
-  - title: Tutor
+    
+
+  - title: Репетитор
     company: ' '
     company_url: ''
     company_logo: 
-    location: Moscow
+    location: Москва
     date_start: '2021-08-01'
     date_end: ''
-    description: Teach mathematics and physics.
+    description: Преподаю математику и физику.
 
 design:
   columns: '2'

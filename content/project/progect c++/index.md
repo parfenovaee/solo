@@ -1,8 +1,8 @@
 ---
-title: C++ Project
-summary: Lost of C++ progects.
+title: Проекты на C++ 
+summary: Список проектов на C++.
 tags:
-  - C++
+  - C
 date: '2022-05-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Follow
+    name: Подписаться
     url: https://github.com/parfenovaee
 url_code: ''
 url_pdf: ''
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-All progects on C++.
+Все проекты на C++.

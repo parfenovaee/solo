@@ -1,6 +1,6 @@
 ---
-title: Python Project
-summary: Lost of Python progects.
+title: Проекты на Python
+summary: Список проектов на Python.
 tags:
   - Python
 date: '2022-05-23T00:00:00Z'
@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Follow
+    name: Подписаться
     url: https://github.com/parfenovaee
 url_code: ''
 url_pdf: ''
@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-All progects on Python.
+Все проекты на Python.

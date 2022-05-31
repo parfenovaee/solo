@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Проекты
 subtitle: ''
 
 content:
@@ -30,7 +30,7 @@ content:
     - name: Python
       tag: Python
     - name: C++
-      tag: C++
+      tag: C
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

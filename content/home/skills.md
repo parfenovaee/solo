@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Навыки
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 50%
-    icon: laptop-code
+    icon: volleyball
     icon_pack: fas
-    name: Coding
-  - description: 50%
-    icon: camera
-    icon_pack: fas
-    name: Video editing
+    name: Волейбол
   - description: 60%
     icon: book
     icon_pack: fas
-    name: Writing
+    name: Писательство
+  - description: 50%
+    icon: laptop-code
+    icon_pack: fas
+    name: Программирование
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
