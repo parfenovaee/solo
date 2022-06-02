@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Парфенова Елизавета
+title: Parfenova Elizaveta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Студентка
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский Университет Дружбы Народов
+  - name: Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Девушка, которая увлекается IT, искусством и волейболом
+bio: A student who is fond of IT, art and volleyball
 
 # Interests to show in About widget
 interests:
-  - Информационные технологии
-  - Искусство
-  - Волейбол
+  - IT
+  - Art
+  - Volleyball
 
 # Education to show in About widget
 education:
   courses:
-    - course: Бакалавриат Фундаментальная информатика и информационные технологии
-      institution: Российский Университет Дружбы Народов
+    - course: Fundamental Informatics and Information Technology
+      institution: Peoples' Friendship University of Russia
       year: 2025
 
 
@@ -87,6 +87,6 @@ email: ''
 highlight_name: true
 ---
 
-Парфенова Елизавета Евгеньевна, 18 лет. Студентка Российского Университета Дружбы Народов, направление "Фундаментальная информатика и информационные технологии". Наравне с техническими науками увлекаюсь искусством (кино и литература в большей степени). 
+Parfenova Elizaveta Evgenievna, 18 years old. Student of the Peoples' Friendship University of Russia, specialty "Fundamental Informatics and Information Technologies". Along with technical sciences, I am fond of art (cinema and literature to a greater extent).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
